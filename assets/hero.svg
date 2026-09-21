@@ -102,7 +102,7 @@
 <g fill="#EAF2FF" text-anchor="middle">
 <g opacity="0">
 <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="1.2s" fill="freeze"/>
-<text x="500" y="224" font-family="Impact,'Arial Black',sans-serif" font-size="62" letter-spacing="6">ROBEL BIRUK</text>
+<text x="500" y="224" font-family="Impact,'Arial Black',sans-serif" font-size="62" letter-spacing="6">PRABHJOT SINGH</text>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="1.7s" fill="freeze"/>
