@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Spider-Sense Profile Generator" width="100%">
+  <img src="assets/About_me.svg" alt="Spider-Sense Profile Generator" width="100%">
 </p>
 
 Hi there, I'm Parbhjot 👋
